@@ -4,8 +4,8 @@ Extracted audio clips from Ring Battery Doorbell firmware (model [5F97F2](https:
  
 ## Contents
  
-- Setup flow sounds (wifi connection, pairing, updates, errors)
-- Status/notification sounds (recording notice, doorbell chime, booting audio)
+- Setup flow sounds (wifi connection, pairing, updates, errors).
+- Status/notification sounds (recording notice, doorbell chime, startup audio).
 - Includes both English and Japanese variants for speech.
  
 ## Disclaimer
